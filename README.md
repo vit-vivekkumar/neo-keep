@@ -3,6 +3,7 @@
 * Create Note <br>
 * Delete Note and Update Notes<br>
 * Access through API
+* Search Note by Title | Tag
 
 # Installing
    1. Install requrements <br>
